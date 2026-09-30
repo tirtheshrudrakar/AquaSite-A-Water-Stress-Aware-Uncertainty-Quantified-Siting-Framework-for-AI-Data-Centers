@@ -266,3 +266,11 @@ This tool supports planning and transparency. It should not be presented as an a
 ---
 
 *Weather data by Open-Meteo.com. Map data (c) OpenStreetMap contributors (ODbL). Aqueduct data (c) World Resources Institute; follow its license terms.*
+
+
+
+The following flowchart presents the overall workflow of AquaSite, from data collection and preprocessing to spatial analysis, water and carbon modeling, uncertainty analysis, optimization, and the final API and interactive dashboard.
+
+The framework is designed as a modular pipeline, allowing individual components such as water stress, direct water demand, indirect water use, uncertainty, and cumulative basin impact to be developed and evaluated independently.
+<img width="1536" height="1024" alt="AquaSite Workflow" src="https://github.com/user-attachments/assets/d051573e-e12b-4045-a07c-9a37eb8b7319" />
+
