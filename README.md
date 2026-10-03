@@ -110,7 +110,7 @@ AI data centers consume water directly (evaporative cooling) and indirectly (wat
 
 **Design tip:** Because the Electricity Maps free tier covers only one zone, do not depend on live API calls for your global analysis. Download static open datasets, cache everything locally, and use live APIs only for a small demo feature.
 
-## 7. Methodology (what you build yourself)
+## 7. Methodology
 
 ### 7.1 Spatial grid
 Tile the study area into hexagonal cells. For each cell compute or look up: monthly water stress, monthly wet-bulb temperature, grid carbon intensity, indirect water factor, basin ID, and basin supply capacity.
