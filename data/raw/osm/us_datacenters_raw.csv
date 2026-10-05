@@ -1,0 +1,896 @@
+name,latitude,longitude,state,operator,osm_id,osm_type
+Lumos Networks,37.415688,-79.1427063,Virginia,,5225685660,node
+8100 Boone Boulevard,38.9137236,-77.2258825,Virginia,Digital Realty,7985753364,node
+Lumen McLean,38.9208538,-77.2115713,Virginia,Lumen Technologies,9669639033,node
+RIC1 DC1,37.4892338,-77.2474761,Virginia,Quality Technology Services,13685576464,node
+RIC1 DC2,37.4886164,-77.2462097,Virginia,Quality Technology Services,13685576465,node
+RIC1 DC3,37.4878581,-77.2448256,Virginia,Quality Technology Services,13685576466,node
+Equinix Ashburn DC18,39.025458,-77.4542815,Virginia,Equinix,14156477686,node
+unnamed_dc_45583037,38.8048453,-77.5124065,Virginia,,45583037,way
+Equinix DC14,38.8034341,-77.5105821,Virginia,,45583050,way
+Amazon IAD-11,38.7904948,-77.5411095,Virginia,Amazon Web Services,45776978,way
+Amazon IAD-24,38.7903463,-77.5400098,Virginia,Amazon Web Services,45776979,way
+Amazon IAD-7,38.7911993,-77.5382664,Virginia,Amazon Web Services,45776988,way
+Digital Realty VA4,38.7780614,-77.594905,Virginia,Digital Realty,46831933,way
+Amazon IAD-10,39.0216753,-77.4329728,Virginia,Amazon Web Services,48242814,way
+Amazon IAD-32,39.0215693,-77.4347944,Virginia,Amazon Web Services,48242816,way
+Centersquare IAD1-B,39.0238679,-77.4152091,Virginia,Centersquare,52094269,way
+Centersquare IAD1-A,39.0232978,-77.4132123,Virginia,Centersquare,52094270,way
+Centersquare IAD1-C,39.024754,-77.4122043,Virginia,Centersquare,52094294,way
+STACK NVA01A,39.0046933,-77.4417399,Virginia,Stack Infrastructure,59294476,way
+Digital Realty VA3,38.9484941,-77.3273071,Virginia,Digital Realty,79158387,way
+Evocative IAD1,38.9488119,-77.3294144,Virginia,Evocative,79159494,way
+CoreSite VA1,38.9506059,-77.3645496,Virginia,CoreSite,79298926,way
+CoreSite VA3,38.9483343,-77.3724298,Virginia,CoreSite,79818498,way
+Equinix DC97,38.9615728,-77.3774178,Virginia,Equinix,221897579,way
+Amazon IAD-55,38.815021,-77.64868,Virginia,Amazon Web Services,222672860,way
+COPT DC-6,38.7473099,-77.5318265,Virginia,,224100721,way
+OVH US East Vint Hill,38.7474201,-77.6744649,Virginia,,225745958,way
+Equinix DC2,39.0163894,-77.4590691,Virginia,Equinix,234722029,way
+H5 Ashburn,39.0136782,-77.4517194,Virginia,H5 Data Centers,234722720,way
+Lumen McLean 1,38.9200207,-77.2116187,Virginia,Lumen Technologies,239147373,way
+DataBank IAD2,38.9199052,-77.213585,Virginia,DataBank,239147724,way
+unnamed_dc_251716311,38.9059013,-77.4689724,Virginia,,251716311,way
+Digital Realty IAD30,38.9101164,-77.4725921,Virginia,Digital Realty,251716328,way
+Flexential - Richmond,37.6468902,-77.4386952,Virginia,Flexential,257581364,way
+Amazon IAD-9,38.8997236,-77.4534439,Virginia,Amazon Web Services,258343744,way
+Amazon IAD-22,38.8979047,-77.4551032,Virginia,Amazon Web Services,258343748,way
+Amazon IAD-1,38.8978637,-77.4540825,Virginia,Amazon Web Services,258343749,way
+H5 IAD31,38.9092366,-77.4722656,Virginia,,258519934,way
+H5 IAD32,38.9097961,-77.4734544,Virginia,,258519959,way
+unnamed_dc_258520532,38.908136,-77.4752182,Virginia,,258520532,way
+Menlo Digital MD-DC1,38.9271191,-77.4240727,Virginia,,262058094,way
+Centersquare IAD3,38.9809293,-77.4443786,Virginia,Centersquare,273895868,way
+Centersquare IAD2-A,38.9844198,-77.4238096,Virginia,Centersquare,273896089,way
+CyrusOne NVA4,38.9848664,-77.4256702,Virginia,CyrusOne,273896096,way
+Centersquare IAD2-B,38.9836138,-77.4240848,Virginia,Centersquare,273896102,way
+Digital Realty ACC4,39.0178592,-77.4624708,Virginia,Digital Realty,298126010,way
+Equinix DC1,39.0155577,-77.4603281,Virginia,Equinix,298127059,way
+Equinix DC5,39.0159646,-77.4612225,Virginia,Equinix,298127361,way
+Equinix DC11,39.0148911,-77.4587995,Virginia,Equinix,298127420,way
+Equinix DC3,39.0223584,-77.4610917,Virginia,Equinix,298242260,way
+Digital Realty ACC3,39.01988,-77.4598033,Virginia,Digital Realty,298242335,way
+Amazon IAD-76,38.9937936,-77.450509,Virginia,Amazon Web Services,299927846,way
+Amazon IAD-12,38.988724,-77.447671,Virginia,Amazon Web Services,299929061,way
+Digital Realty ACC5,39.0201584,-77.4631033,Virginia,Digital Realty,300162674,way
+Digital Realty ACC6,39.0210261,-77.4635509,Virginia,Digital Realty,300162675,way
+Lumen Ashburn,39.022182,-77.4576094,Virginia,Lumen Technologies,300162689,way
+Centersquare IAD4-B,39.0221679,-77.4535946,Virginia,Centersquare,300163074,way
+NTT VA1,39.0227436,-77.4548911,Virginia,NTT,300163083,way
+Equinix DC13,39.0125623,-77.4754047,Virginia,Equinix,300969250,way
+Digital Realty IAD14,39.0033364,-77.4870935,Virginia,Digital Realty,300969614,way
+Amazon IAD-6,39.0027516,-77.4854486,Virginia,Amazon Web Services,300969615,way
+Digital Realty IAD12,39.0020229,-77.4833469,Virginia,Digital Realty,300969616,way
+Digital Realty Devin Shafron Building A,39.0027477,-77.4819519,Virginia,Digital Realty,300969617,way
+Digital Realty IAD24,39.0043186,-77.484415,Virginia,Digital Realty,300969619,way
+DataBank IAD1,39.0154881,-77.4821555,Virginia,DataBank,300970759,way
+DataBank IAD4,39.0154867,-77.4833483,Virginia,DataBank,300970761,way
+Equinix DC7,38.9091392,-77.2205568,Virginia,Equinix,368724474,way
+Visa Operations Center East,39.0487658,-77.4453971,Virginia,Visa,380282154,way
+unnamed_dc_429040021,37.4943952,-77.2374867,Virginia,Bank of America,429040021,way
+CyrusOne NVA1/NVA2/NVA3,39.0259023,-77.4144697,Virginia,CyrusOne,435324552,way
+CyrusOne NVA5,39.024356,-77.4341,Virginia,CyrusOne,435817145,way
+Virginia Information Technologies Agency,37.3607028,-77.3318065,Virginia,,439365340,way
+Equinix CU2,38.4548439,-77.9781318,Virginia,Equinix,450078003,way
+Equinix DC10,39.0210047,-77.4514888,Virginia,Equinix,460050155,way
+Amazon Web Services Datacenter Complex,39.0263311,-77.4516315,Virginia,Amazon Web Services,460053028,way
+Amazon Web Services,39.0288072,-77.4588379,Virginia,Amazon Web Services,460053030,way
+Amazon IAD-61,38.9158051,-77.4919869,Virginia,Amazon Web Services,460056017,way
+unnamed_dc_460056018,38.9865152,-77.4422565,Virginia,,460056018,way
+Amazon IAD-51,38.9914123,-77.4365107,Virginia,Amazon Web Services,460056019,way
+Amazon IAD-56,38.9905701,-77.4370586,Virginia,Amazon Web Services,460056020,way
+Amazon IAD-16,38.9906864,-77.4488397,Virginia,Amazon Web Services,460056023,way
+Amazon IAD-15,38.991708,-77.4485641,Virginia,Amazon Web Services,460056024,way
+Amazon IAD-14,38.7898846,-77.5482287,Virginia,Amazon Web Services,460059465,way
+Amazon IAD-59,38.7921874,-77.5484673,Virginia,Amazon Web Services,460060340,way
+Amazon IAD-52,38.7911185,-77.5483863,Virginia,Amazon Web Services,460060341,way
+QTS Ashburn Moran,38.9942215,-77.4482013,Virginia,Quality Technology Services,460175664,way
+Centersquare IAD4-A,39.0217816,-77.4527978,Virginia,Centersquare,460175666,way
+Amazon IAD-13,39.0050516,-77.4856124,Virginia,Amazon Web Services,460175672,way
+Amazon IAD-78,39.0263681,-77.4495202,Virginia,Amazon Web Services,463571875,way
+Amazon IAD-79,39.0263574,-77.4508704,Virginia,Amazon Web Services,463571876,way
+Amazon IAD-87,38.9918083,-77.441172,Virginia,Amazon Web Services,465062052,way
+Amazon IAD-88,38.9909679,-77.4418679,Virginia,Amazon Web Services,465062053,way
+Amazon IAD-73,38.7779795,-77.5590992,Virginia,Amazon Web Services,490997243,way
+Amazon IAD-74,38.7774374,-77.5578909,Virginia,Amazon Web Services,490997244,way
+Amazon IAD-63,38.9168847,-77.4932514,Virginia,Amazon Web Services,544596573,way
+Amazon IAD-62,38.9493217,-77.5198747,Virginia,Amazon Web Services,545396372,way
+Digital Fortress: Richmond,37.3600608,-77.327038,Virginia,Digital Fortress,550355261,way
+Amazon IAD-71,39.0279064,-77.4574998,Virginia,Amazon Web Services,556599693,way
+Amazon IAD-50,39.0295615,-77.4596546,Virginia,Amazon Web Services,556599694,way
+Amazon IAD-60,39.0287737,-77.4582461,Virginia,Amazon Web Services,556599695,way
+Amazon IAD-80,39.0271087,-77.4528289,Virginia,Amazon Web Services,596690174,way
+Equinix DC12,39.0230155,-77.4497875,Virginia,Equinix,596690175,way
+Digital Realty IAD36,39.0015493,-77.4793749,Virginia,Digital Realty,597970806,way
+Digital Realty IAD35,39.0005331,-77.4805775,Virginia,Digital Realty,597970809,way
+Digital Realty IAD37,39.000032,-77.4780146,Virginia,Digital Realty,597970811,way
+Digital Realty IAD38,39.0010841,-77.4772014,Virginia,Digital Realty,597970813,way
+NTT VA2,39.0250127,-77.4576402,Virginia,NTT,610977485,way
+Digital Realty ACC7,39.017472,-77.4656752,Virginia,Digital Realty,649319778,way
+NTT VA3,39.017225,-77.4703718,Virginia,NTT,649365751,way
+Digital Realty ACC9,39.0154331,-77.4673732,Virginia,Digital Realty,649365764,way
+Amazon IAD-75,38.7793815,-77.5417245,Virginia,Amazon Web Services,667573133,way
+Amazon IAD-68,38.9486869,-77.5209516,Virginia,Amazon Web Services,693381106,way
+Amazon IAD-81,38.9483877,-77.5218303,Virginia,Amazon Web Services,693381107,way
+Google Arcola Building 1,38.9432045,-77.5243301,Virginia,Google,693385812,way
+Amazon IAD-120,38.9579165,-77.4980579,Virginia,Amazon Web Services,693390022,way
+Amazon IAD-121,38.9567768,-77.4977837,Virginia,Amazon Web Services,693390023,way
+unnamed_dc_696978351,39.0120268,-77.4715605,Virginia,,696978351,way
+unnamed_dc_696985482,38.9995402,-77.4498559,Virginia,,696985482,way
+unnamed_dc_696992451,38.7908136,-77.5484173,Virginia,,696992451,way
+Amazon IAD-58,38.9863003,-77.4418855,Virginia,Amazon Web Services,697020849,way
+Amazon IAD-57,38.9869931,-77.4426325,Virginia,Amazon Web Services,697020850,way
+Amazon IAD-64,38.8151324,-77.6529193,Virginia,Amazon Web Services,697021948,way
+unnamed_dc_697021949,38.8159745,-77.6525395,Virginia,Amazon,697021949,way
+QTS Ashburn 1 DC1,38.9995277,-77.4501109,Virginia,Quality Technology Services,701923200,way
+Digital Realty IAD73,39.0066187,-77.4664074,Virginia,Digital Realty,701923202,way
+Digital Realty IAD39,39.0076143,-77.4676305,Virginia,Digital Realty,701923203,way
+Digital Realty ACC10,39.0126563,-77.4656035,Virginia,Digital Realty,701923204,way
+Sentinel Cloud Plaza,39.0006465,-77.4398077,Virginia,GI Partners,701924664,way
+Vantage VA11,39.0023794,-77.4376878,Virginia,Vantage Data Centers,701924665,way
+Amazon IAD-90,38.9886031,-77.4116516,Virginia,Amazon Web Services,701924667,way
+Amazon IAD-91,38.9878471,-77.4111191,Virginia,Amazon Web Services,701924668,way
+Amazon IAD-92,38.9869426,-77.4104754,Virginia,Amazon Web Services,701924669,way
+Amazon IAD-144,38.981635,-77.4274289,Virginia,Amazon Web Services,701929066,way
+CyrusOne NVA8,39.0211789,-77.4132443,Virginia,CyrusOne,701930919,way
+Amazon IAD-98,39.0202249,-77.4338857,Virginia,Amazon Web Services,701930920,way
+Amazon IAD-99,39.0191689,-77.4340299,Virginia,Amazon Web Services,701930921,way
+Amazon IAD-114,39.035494,-77.4506986,Virginia,Amazon Web Services,701930929,way
+Amazon IAD-115,39.0362941,-77.4497948,Virginia,Amazon Web Services,701930930,way
+Amazon IAD-65,38.9170108,-77.4943665,Virginia,Amazon Web Services,701931819,way
+Amazon IAD-150,38.9160727,-77.4772491,Virginia,Amazon Web Services,701931820,way
+Stonewall Creek Business Park,39.051467,-77.5394376,Virginia,Google,706726088,way
+Sabey Ashburn Building C,39.0154219,-77.4782699,Virginia,Sabey Data Centers,708916484,way
+Google Leesburg Building 1,39.0526328,-77.5395732,Virginia,Google,710070925,way
+Google Data Center,38.943321,-77.5261637,Virginia,Google,714622339,way
+Amazon IAD-145,38.9825519,-77.4246299,Virginia,Amazon Web Services,744491691,way
+Amazon IAD-117,39.0236982,-77.4190947,Virginia,Amazon Web Services,744496741,way
+Amazon IAD-116,39.0243461,-77.4204393,Virginia,Amazon Web Services,744496750,way
+Meta Henrico Data Center,37.4839132,-77.2373305,Virginia,Meta,762116506,way
+Digital Realty IAD41,39.0088059,-77.4582358,Virginia,Digital Realty,793087858,way
+Amazon IAD-118,39.0185086,-77.4388362,Virginia,Amazon Web Services,793087859,way
+Aligned IAD-01,39.0136079,-77.4705563,Virginia,Aligned,793622740,way
+Equinix DC15,39.0225001,-77.4502558,Virginia,Equinix,793888408,way
+Sabey Ashburn Building B,39.0144996,-77.4799874,Virginia,Sabey Data Centers,793888427,way
+NTT VA5,39.0183033,-77.472611,Virginia,NTT,793888429,way
+NTT VA4,39.0198684,-77.4725917,Virginia,NTT,793888430,way
+CloudHQ LC1,39.0102471,-77.4626713,Virginia,CloudHQ,794147654,way
+CloudHQ LC2,39.0117541,-77.4624624,Virginia,CloudHQ,794147655,way
+Amazon IAD-146,38.9967211,-77.4355972,Virginia,Amazon Web Services,794147657,way
+Equinix DC21,39.0118055,-77.45451,Virginia,Equinix,796933516,way
+Amazon IAD-140,38.9814552,-77.4175501,Virginia,Amazon Web Services,817338831,way
+Amazon IAD-141,38.9823877,-77.4167858,Virginia,Amazon Web Services,817338832,way
+Amazon IAD-84,38.8161031,-77.6524994,Virginia,Amazon Web Services,828135845,way
+Middletown Data Center,39.0176781,-78.2909424,Virginia,,840582927,way
+unnamed_dc_844374689,39.050601,-77.5400225,Virginia,,844374689,way
+Amazon IAD-119,39.0169314,-77.4393886,Virginia,Amazon Web Services,852039781,way
+DBT Data - Harrisonburg Center,38.4626027,-78.8567247,Virginia,,876120402,way
+CloudHQ MCC1,38.7170622,-77.4999396,Virginia,CloudHQ,882977350,way
+Amazon IAD-129,39.0160803,-77.4383818,Virginia,Amazon Web Services,886028872,way
+Microsoft Leesburg Building 1,39.0747869,-77.564129,Virginia,Microsoft,886330269,way
+Microsoft,38.9495184,-77.5594451,Virginia,Microsoft,897226569,way
+Arcola Tech Park,38.9492681,-77.5556264,Virginia,,897226573,way
+Amazon IAD-125,38.9480895,-77.5605449,Virginia,Amazon Web Services,897226574,way
+Amazon IAD-124,38.9498954,-77.5604517,Virginia,Amazon Web Services,897226575,way
+42310 THUNDERBALL DR,39.0441027,-77.5397106,Virginia,True North Data Solutions,909455922,way
+Amazon IAD-163,39.0323054,-77.4297021,Virginia,Amazon Web Services,930849744,way
+Amazon IAD-175,38.9798678,-77.425476,Virginia,Amazon Web Services,954433119,way
+Amazon IAD-147,38.9950101,-77.4353604,Virginia,Amazon Web Services,958662382,way
+CyrusOne NVA7,39.0263152,-77.4340194,Virginia,CyrusOne,983627455,way
+Amazon IAD-174,39.0289143,-77.4274784,Virginia,Amazon Web Services,984953813,way
+Amazon IAD-164,39.0304712,-77.4289455,Virginia,Amazon Web Services,984953814,way
+Vantage VA12,39.001791,-77.438057,Virginia,Vantage Data Centers,985207884,way
+Microsoft Leesburg Building 2,39.0755079,-77.5630354,Virginia,Microsoft,986829280,way
+Amazon IAD-152,38.9165716,-77.479733,Virginia,Amazon Web Services,989735623,way
+Amazon IAD-151,38.9161469,-77.4786956,Virginia,Amazon Web Services,989735624,way
+Amazon IAD-83,38.9479489,-77.5230989,Virginia,Amazon Web Services,990537813,way
+AWS,38.9465392,-77.5221879,Virginia,Amazon Web Services,990537821,way
+Amazon IAD-122,38.9558707,-77.4971865,Virginia,Amazon Web Services,990537857,way
+CyrusOne Sterling IX,38.9583294,-77.50573,Virginia,CyrusOne,990537858,way
+Iron Mountain VA-2,38.7772373,-77.5459965,Virginia,Iron Mountain,996723585,way
+Iron Mountain VA-1,38.777963,-77.5471012,Virginia,Iron Mountain,996723586,way
+Amazon IAD-96,38.7801515,-77.5398838,Virginia,Amazon Web Services,996723587,way
+Amazon IAD-95,38.7784509,-77.539427,Virginia,Amazon Web Services,996723588,way
+Amazon IAD-85,38.7793425,-77.542896,Virginia,Amazon Web Services,996723589,way
+Amazon IAD-102,38.7359728,-77.5048957,Virginia,Amazon Web Services,996899486,way
+Amazon IAD-101,38.7354375,-77.5057008,Virginia,Amazon Web Services,996899487,way
+Amazon IAD-100,38.7345976,-77.5066419,Virginia,Amazon Web Services,996899488,way
+CloudHQ MCC2,38.7231919,-77.4989708,Virginia,CloudHQ,996899489,way
+AWS,38.7430518,-77.5333746,Virginia,Amazon Web Services,1000784035,way
+QTS Ashburn 3 DC1,38.9980776,-77.4754706,Virginia,Quality Technology Services,1003348567,way
+Amazon IAD601,38.7788593,-77.5571158,Virginia,Amazon Web Services,1015995259,way
+Amazon IAD-162,38.9958502,-77.4712939,Virginia,Amazon Web Services,1020877488,way
+Amazon IAD-161,38.9966044,-77.4732601,Virginia,Amazon Web Services,1020877489,way
+Digital Loudoun Plaza,39.0048431,-77.4851266,Virginia,,1020953454,way
+Digital Loudoun Plaza,39.0016288,-77.4823625,Virginia,,1020953461,way
+unnamed_dc_1022757170,38.9848368,-77.4259111,Virginia,,1022757170,way
+Digital Realty IAD42,39.0056891,-77.4494637,Virginia,Digital Realty,1025002889,way
+Meta Henrico Data Center,37.4819534,-77.2337115,Virginia,Meta,1030970564,way
+Amazon IAD-601,39.0152596,-77.4377755,Virginia,Amazon Web Services,1037871048,way
+AWS,38.7442865,-77.5333323,Virginia,Amazon Web Services,1059030596,way
+STACK,38.7459908,-77.5375488,Virginia,Stack Infrastructure,1059036248,way
+Amazon IAD-132,38.7438863,-77.5306249,Virginia,Amazon Web Services,1059037050,way
+Amazon IAD-133,38.7440549,-77.5291961,Virginia,Amazon Web Services,1059037051,way
+QTS Ashburn Lockridge,38.9959297,-77.4562445,Virginia,Quality Technology Services,1064211366,way
+unnamed_dc_1074588578,36.6799052,-78.3739846,Virginia,,1074588578,way
+unnamed_dc_1074588579,36.6792788,-78.3741652,Virginia,,1074588579,way
+unnamed_dc_1074588580,36.677864,-78.3746914,Virginia,,1074588580,way
+unnamed_dc_1074588582,36.6774709,-78.3770074,Virginia,,1074588582,way
+unnamed_dc_1074588583,36.6780067,-78.3768491,Virginia,,1074588583,way
+unnamed_dc_1074588584,36.6785383,-78.3766873,Virginia,,1074588584,way
+unnamed_dc_1074588585,36.6791786,-78.3764937,Virginia,,1074588585,way
+unnamed_dc_1074588586,36.6797142,-78.3763292,Virginia,,1074588586,way
+unnamed_dc_1074591450,36.6829223,-78.3768678,Virginia,,1074591450,way
+unnamed_dc_1074591451,36.6830008,-78.3757514,Virginia,,1074591451,way
+unnamed_dc_1074591452,36.6860613,-78.3772195,Virginia,,1074591452,way
+unnamed_dc_1074591453,36.6861451,-78.3761048,Virginia,,1074591453,way
+unnamed_dc_1074591454,36.6894978,-78.3775931,Virginia,,1074591454,way
+unnamed_dc_1074591455,36.6895764,-78.3764851,Virginia,,1074591455,way
+unnamed_dc_1074595308,36.692492,-78.3767715,Virginia,,1074595308,way
+unnamed_dc_1074595309,36.6924575,-78.3779683,Virginia,,1074595309,way
+unnamed_dc_1074595310,36.6949343,-78.3763578,Virginia,,1074595310,way
+Amazon IAD-169,39.0167452,-77.4520059,Virginia,Amazon Web Services,1088203906,way
+Amazon IAD-179,39.015885,-77.4531399,Virginia,Amazon Web Services,1088203907,way
+Aligned IAD-02,39.0104171,-77.4751585,Virginia,Aligned,1088241977,way
+IAD,39.0130484,-77.4730942,Virginia,Aligned,1088241982,way
+QTS Manassas DC5,38.7547679,-77.5173876,Virginia,Quality Technology Services,1090837713,way
+Amazon IAD-143,38.9795634,-77.4174915,Virginia,Amazon Web Services,1106454555,way
+Equinix DC16,39.0242346,-77.4522875,Virginia,Equinix,1123249721,way
+Microsoft IAD11,38.9482582,-77.5559109,Virginia,Microsoft,1124864831,way
+Microsoft Leesburg Building 3,39.0696487,-77.5607711,Virginia,,1128589933,way
+Microsoft Leesburg Building 4,39.069656,-77.5594332,Virginia,,1128589934,way
+Meta Henrico Data Center,37.4778562,-77.2264818,Virginia,Meta,1132541700,way
+CoreSite VA2,38.9514551,-77.363999,Virginia,CoreSite,1134104431,way
+Amazon IAD-105,38.7475999,-77.51948,Virginia,Amazon Web Services,1134911640,way
+Amazon IAD-104,38.7483699,-77.5207001,Virginia,Amazon Web Services,1134911641,way
+QTS Manassas DC1,38.7525433,-77.513108,Virginia,Quality Technology Services,1134911642,way
+Amazon IAD-142,38.979147,-77.419905,Virginia,Amazon Web Services,1161094246,way
+unnamed_dc_1161730862,38.9572529,-77.4978409,Virginia,,1161730862,way
+Google Arcola Building 2,38.9418116,-77.5274514,Virginia,Google,1173770902,way
+Amazon IAD-603,38.9815474,-77.4193688,Virginia,Amazon Web Services,1177893426,way
+Amazon IAD-86,38.9172562,-77.4956744,Virginia,Amazon Web Services,1181391920,way
+Amazon IAD-130,38.7603606,-77.5193019,Virginia,Amazon Web Services,1181391921,way
+Amazon IAD-131,38.7611048,-77.518221,Virginia,Amazon Web Services,1181391922,way
+QTS Ashburn 3 DC2,38.9987099,-77.4743264,Virginia,Quality Technology Services,1188680247,way
+QTS Ashburn 2 DC1,38.9953067,-77.455264,Virginia,Quality Technology Services,1188680253,way
+QTS Ashburn 2 DC2,38.9951808,-77.4568191,Virginia,Quality Technology Services,1188680254,way
+Amazon IAD-192,38.98956,-77.4348017,Virginia,Amazon Web Services,1188680255,way
+NTT VA6,39.017043,-77.4733379,Virginia,NTT,1188691867,way
+NTT VA9,39.0201893,-77.475509,Virginia,NTT,1188691868,way
+DataBank IAD3,39.0179043,-77.4818188,Virginia,DataBank,1188691869,way
+CyrusOne NVA14,39.0195992,-77.4504568,Virginia,PowerHouse,1188715508,way
+Cologix ASH1,39.0179257,-77.4595164,Virginia,Cologix,1188715510,way
+Amazon IAD-106,38.7469789,-77.518524,Virginia,Amazon Web Services,1221862807,way
+AWS,38.9491488,-77.5235942,Virginia,Amazon Web Services,1222134968,way
+Equinix DC14,38.8033786,-77.5105458,Virginia,Equinix,1227539675,way
+Amazon IAD-103,38.7369848,-77.5040881,Virginia,Amazon Web Services,1227612684,way
+CloudHQ MCC3,38.7150171,-77.4951199,Virginia,CloudHQ,1227614670,way
+Vantage VA13,39.0032126,-77.440175,Virginia,Vantage Data Centers,1227777116,way
+Amazon IAD-134,38.9043442,-77.4524692,Virginia,Amazon Web Services,1252196797,way
+Amazon IAD-135,38.9048369,-77.4547504,Virginia,Amazon Web Services,1252196798,way
+Amazon IAD-155,38.9159035,-77.4905509,Virginia,Amazon Web Services,1252196799,way
+AWS,38.9149908,-77.4909743,Virginia,Amazon Web Services,1252196800,way
+Google Mango Farm Building 1,38.7761446,-77.5825144,Virginia,Google,1252196815,way
+AWS,38.7461526,-77.5172227,Virginia,Amazon Web Services,1252196825,way
+Amazon IAD-156,38.9213052,-77.4858007,Virginia,Amazon Web Services,1252196826,way
+Amazon IAD-606,38.9950569,-77.4710738,Virginia,Amazon Web Services,1253282099,way
+Digital Realty IAD53,38.7403853,-77.5039772,Virginia,Digital Realty,1269259655,way
+Amazon IAD-214,38.9865317,-77.4351775,Virginia,Amazon Web Services,1276518679,way
+Aligned IAD-03,38.9886354,-77.4407776,Virginia,Aligned,1276518684,way
+Digital Realty IAD55,38.9921869,-77.4339379,Virginia,Digital Realty,1276518687,way
+AWS,38.9473737,-77.5202381,Virginia,Amazon Web Services,1280340212,way
+Amazon IAD-608,38.9835278,-77.4175076,Virginia,Amazon Web Services,1280340213,way
+Amazon IAD-195,38.8028836,-77.6221217,Virginia,Amazon Web Services,1280340214,way
+AWS,38.745134,-77.5331012,Virginia,Amazon Web Services,1280340215,way
+AWS,38.8145928,-77.6543195,Virginia,Amazon Web Services,1280340216,way
+Amazon IAD-94,38.8169707,-77.6521528,Virginia,Amazon Web Services,1280340217,way
+Iron Mountain VA-3,38.7755471,-77.5451498,Virginia,Iron Mountain,1283698132,way
+Google Mango Farm,38.7744375,-77.5856183,Virginia,Google,1287260553,way
+Amazon IAD-196,38.801862,-77.621212,Virginia,Amazon Web Services,1287260554,way
+Amazon IAD-197,38.8012504,-77.6204762,Virginia,Amazon Web Services,1287260555,way
+Iron Mountain VA-4,38.7744146,-77.54223,Virginia,Iron Mountain,1287260556,way
+Iron Mountain VA-5,38.773028,-77.5411854,Virginia,Iron Mountain,1287260557,way
+QTS Manassas DC3,38.7531664,-77.5108824,Virginia,Quality Technology Services,1287260558,way
+STACK NVA05A,38.7589306,-77.5166938,Virginia,,1287260559,way
+42311 THUNDERBALL DR,39.0425196,-77.5382898,Virginia,True North Data Solutions,1292897241,way
+42255 THUNDERBALL DR,39.0416534,-77.539212,Virginia,True North Data Solutions,1292897242,way
+42254 THUNDERBALL DR,39.0434964,-77.5408399,Virginia,True North Data Solutions,1292897243,way
+Amazon IAD-127,38.9480346,-77.5589842,Virginia,Amazon Web Services,1301654223,way
+Amazon IAD-126,38.9500822,-77.5588677,Virginia,Amazon Web Services,1301654224,way
+Iron Mountain VA-6,38.7681429,-77.5386481,Virginia,Iron Mountain,1304357577,way
+unnamed_dc_1307454847,36.6756936,-78.3739103,Virginia,,1307454847,way
+Equinix DC6,39.0151965,-77.4595343,Virginia,Equinix,1309123033,way
+Equinix DC4,39.0164403,-77.4619542,Virginia,Equinix,1309123034,way
+Digital Realty IAD44,38.9608537,-77.4913983,Virginia,Digital Realty,1317733642,way
+Yondr Allegro South,38.9492572,-77.5498011,Virginia,Yondr,1319637945,way
+Microsoft Leesburg Building 5,39.0660153,-77.5585694,Virginia,,1333205263,way
+Amazon IAD-165,38.9227671,-77.4278721,Virginia,Amazon Web Services,1343764880,way
+Amazon IAD-166,38.9211238,-77.4265432,Virginia,Amazon Web Services,1343764881,way
+Amazon IAD-167,38.9227105,-77.4263036,Virginia,Amazon Web Services,1343764882,way
+Amazon IAD-286,39.0004483,-77.4607956,Virginia,Amazon Web Services,1344901567,way
+Amazon IAD-285,38.9991321,-77.4607873,Virginia,Amazon Web Services,1344901568,way
+Digital Realty IAD43,39.0018258,-77.4527034,Virginia,Digital Realty,1344901569,way
+Vantage VA2,38.997949,-77.4302306,Virginia,Vantage Data Centers,1344901575,way
+unnamed_dc_1380114462,38.737208,-77.8262798,Virginia,,1380114462,way
+unnamed_dc_1380114463,38.7382145,-77.8258682,Virginia,,1380114463,way
+CloudHQ LC4,39.0023088,-77.4718933,Virginia,CloudHQ,1381994242,way
+True North Data Centers,39.0436134,-77.5372623,Virginia,True North Data Solutions,1387391200,way
+Compass IAD IE,39.0442544,-77.5379583,Virginia,Compass Datacenters,1387391201,way
+Amazon IAD-168,38.9231403,-77.4249774,Virginia,Amazon Web Services,1426663252,way
+Amazon IAD-500,38.9364643,-77.4246803,Virginia,Amazon Web Services,1426663253,way
+CloudHQ LC3,39.0112011,-77.4603947,Virginia,CloudHQ,1443187163,way
+Amazon IAD-668,39.0559766,-77.5473343,Virginia,Amazon Web Services,1443922527,way
+Amazon IAD-667,39.0577971,-77.546734,Virginia,Amazon Web Services,1443922528,way
+STACK NVA06,39.0821895,-77.5651208,Virginia,Stack Infrastructure,1443922535,way
+Microsoft Data Center 2,38.7999718,-77.5833485,Virginia,Microsoft,1447029365,way
+PowerHouse CTP-02,37.360586,-77.3256869,Virginia,PowerHouse,1449347339,way
+Amazon IAD-669,39.0552634,-77.5447851,Virginia,Amazon Web Services,1460776170,way
+AWS,39.0540969,-77.545995,Virginia,Amazon Web Services,1460776171,way
+Google Leesburg Building 3,39.0510366,-77.534801,Virginia,,1460776174,way
+Google Mango Farm Building 3,38.7793049,-77.5863352,Virginia,Google,1464257783,way
+QTS Manassas DC2,38.7525454,-77.5124598,Virginia,Quality Technology Services,1464257784,way
+unnamed_dc_1482076328,38.7771313,-77.5561679,Virginia,,1482076328,way
+Amazon IAD-230,38.989461,-77.4497423,Virginia,Amazon Web Services,1482076330,way
+DC6,37.4852894,-77.2501822,Virginia,Quality Technology Services,1493516619,way
+DC5,37.4847788,-77.2491092,Virginia,Quality Technology Services,1493516620,way
+DC4,37.4839184,-77.2478145,Virginia,Quality Technology Services,1493516621,way
+RIC2 DC1,37.4881735,-77.2400618,Virginia,,1493516623,way
+RIC2 DC2,37.4870918,-77.2409826,Virginia,,1493516624,way
+RIC2 DC3,37.4860655,-77.2418909,Virginia,,1493516625,way
+RIC2 DC5,37.4848483,-77.2429836,Virginia,,1493516626,way
+RIC2 DC6,37.4839006,-77.2437642,Virginia,,1493516628,way
+RIC3 DC1,37.4805039,-77.2516217,Virginia,Quality Technology Services,1493516629,way
+RIC3 DC2,37.4797266,-77.2522103,Virginia,Quality Technology Services,1493516630,way
+RIC3 DC3,37.4785097,-77.2529958,Virginia,Quality Technology Services,1493516631,way
+RIC3 DC5,37.4770151,-77.2496926,Virginia,Quality Technology Services,1493516632,way
+RIC3 DC4,37.4779175,-77.2489773,Virginia,Quality Technology Services,1493516633,way
+unnamed_dc_1509985717,38.76138,-77.5392522,Virginia,,1509985717,way
+Iron Mountain VA-7,38.7751744,-77.5399654,Virginia,Iron Mountain,1510517637,way
+AWS,38.789376,-77.5819732,Virginia,Amazon Web Services,1510517638,way
+Amazon Web Services,38.7894558,-77.5796864,Virginia,Amazon Web Services,1510517639,way
+AWS,38.7466335,-77.4972555,Virginia,Amazon Web Services,1510517640,way
+AWS,38.7476409,-77.4947856,Virginia,Amazon Web Services,1510517641,way
+AWS,38.7495466,-77.4930098,Virginia,Amazon Web Services,1510517642,way
+Digital Realty IAD40,39.0062702,-77.4683054,Virginia,Digital Realty,1518717349,way
+Vantage VA14,39.0028892,-77.4393845,Virginia,Vantage Data Centers,1518761569,way
+unnamed_dc_1521913706,38.935591,-77.4267117,Virginia,,1521913706,way
+unnamed_dc_1521913707,38.9374816,-77.4258057,Virginia,,1521913707,way
+Equinix DC22,39.0133911,-77.4537722,Virginia,Equinix,1522636324,way
+PowerHouse Pacific Building 1,39.0052424,-77.4464282,Virginia,PowerHouse Data Centers,1534356804,way
+PowerHouse Pacific Building 2,39.0034856,-77.4485787,Virginia,,1534356805,way
+Amazon DCA-64,38.7419821,-77.1861732,Virginia,Amazon Web Services,1536981894,way
+Digital Realty IAD45,38.9626248,-77.4900109,Virginia,Digital Realty,1543296494,way
+Digital Realty ACC2,39.0215698,-77.4592649,Virginia,Digital Realty,1543931282,way
+Equinix DC17,39.0248907,-77.4534187,Virginia,Equinix,1543931283,way
+BlackChamber Tech Park at Brambleton,38.9573857,-77.5357398,Virginia,BlackChamber Group,1544103415,way
+Tech Park at Brambleton,38.9566351,-77.5331919,Virginia,BlackChamber Group,1544103416,way
+CyrusOne NVA9,38.9588464,-77.5026145,Virginia,CyrusOne,1544104138,way
+unnamed_dc_1544360246,38.9959941,-77.4597395,Virginia,,1544360246,way
+EdgeCore AS02,38.9950727,-77.4459839,Virginia,EdgeCore,1544360247,way
+Vantage VA16,38.9993359,-77.4418377,Virginia,Vantage Data Centers,1544360248,way
+QTS Ashburn 1 DC2,38.9981598,-77.4489969,Virginia,Quality Technology Services,1544360249,way
+PowerHouse Pacific Building 3,39.0035927,-77.4467729,Virginia,,1544360250,way
+EdgeCore AS01,39.0217895,-77.4147034,Virginia,EdgeCore,1555352690,way
+Amazon IAD-128,39.0229636,-77.4167126,Virginia,Amazon Web Services,1555352691,way
+NTT VA7,39.0158263,-77.4719884,Virginia,NTT,1556781864,way
+Vantage VA3,39.0775071,-77.5052057,Virginia,Vantage Data Centers,1560626428,way
+Amazon IAD-180,38.9811304,-77.4942439,Virginia,Amazon Web Services,1560627883,way
+Microsoft IAD11,38.9497902,-77.5543019,Virginia,Microsoft,1560641652,way
+Microsoft IAD11,38.9510645,-77.5555499,Virginia,Microsoft,1560641653,way
+Sabey Ashburn Building A,39.0137942,-77.4769259,Virginia,Sabey Data Centers,1560817803,way
+CloudHQ LC5,39.0098775,-77.477021,Virginia,CloudHQ,1560822516,way
+CloudHQ LC11,39.0066448,-77.4776407,Virginia,CloudHQ,1560822517,way
+CloudHQ LC14,39.0060646,-77.4753841,Virginia,CloudHQ,1560822518,way
+CloudHQ LC12,39.0054086,-77.4784366,Virginia,CloudHQ,1560822519,way
+CloudHQ LC8,39.0019963,-77.468439,Virginia,CloudHQ,1560822523,way
+Cologix ASH2,39.0196443,-77.4581097,Virginia,Cologix,1560827027,way
+NTT VA8,39.0187472,-77.4755556,Virginia,NTT,1560827941,way
+unnamed_dc_1561752472,38.7344794,-77.1528961,Virginia,,1561752472,way
+unnamed_dc_1561752473,38.7351981,-77.1528853,Virginia,,1561752473,way
+NTT VA10,38.800094,-77.6102003,Virginia,NTT,1561771299,way
+Digital Realty IAD51,38.7370508,-77.5081488,Virginia,Digital Realty,1561771300,way
+unnamed_dc_1561790221,38.7632492,-77.5392727,Virginia,,1561790221,way
+Microsoft Data Center 1,38.8023704,-77.5823062,Virginia,Microsoft,19787207,relation
+OptimumHQ,33.3804149,-111.7526684,Arizona,,7557854384,node
+The Chatfield Group,33.380601,-111.7528888,Arizona,,7557868585,node
+All About Serving Process Server,33.3199157,-111.809686,Arizona,,7578821329,node
+Emailage,33.302965,-111.8405386,Arizona,,7737996606,node
+Alliance Technology,33.3799862,-111.728405,Arizona,,7821940847,node
+VaultLogix,33.627367,-111.9017033,Arizona,,10796113031,node
+Profit Finder Pro Software,33.6272477,-111.9020476,Arizona,,10796113033,node
+DataPro USA Web Development,33.6116624,-111.9139825,Arizona,,10798644674,node
+K-Motion Interactive,33.6344843,-111.8843457,Arizona,,10938672218,node
+Iron Mountain Data Centers AZS-1,33.6446663,-111.8960985,Arizona,,11018926315,node
+Accelera Data Systems,33.6647455,-112.1117142,Arizona,,11113161710,node
+"Alembic Computer Services, Inc.",33.4051307,-111.9773353,Arizona,,11938614120,node
+J-Curve Technologies,33.4131856,-111.9711539,Arizona,,11938631189,node
+Comarch,33.3566787,-111.6352356,Arizona,,13019681063,node
+Iron Mountain Records Storage,33.42038,-112.0413257,Arizona,Iron Mountain,131891022,way
+Lumen,33.494309,-112.0707916,Arizona,Lumen Technologies,151179323,way
+L3Harris Technologies Inc,33.3053366,-111.6716904,Arizona,,152163711,way
+AZ Labs,33.3062801,-111.6717217,Arizona,,152163722,way
+Aligned Energy Data Center,33.6590546,-112.1111595,Arizona,,155739337,way
+Flexential Phoenix - Deer Valley,33.6846775,-112.0983398,Arizona,Flexential,157362579,way
+Data Storage Centers,33.4216928,-112.0343031,Arizona,,210917861,way
+EdgeConneX,33.3955466,-111.9700881,Arizona,EdgeConneX,220014929,way
+Digital Realty Data Center,33.3446197,-111.8992189,Arizona,Digital Realty,220518160,way
+PhoenixNAP,33.416077,-112.0094718,Arizona,,244490839,way
+Cogent Data Center,33.4002195,-112.0478786,Arizona,"Cogent Communications, Inc.",290307022,way
+Digital Realty Phoenix PHX15,33.2749228,-111.8866379,Arizona,Digital Realty,300952513,way
+H5 Phoenix,33.2769993,-111.8858906,Arizona,H5,300959969,way
+unnamed_dc_300959970,33.2708761,-111.8819478,Arizona,CyrusOne,300959970,way
+Apple Data Center,33.3470334,-111.6041418,Arizona,Apple Inc.,300974499,way
+Stream Data Centers PHX-1,33.4194907,-112.3599883,Arizona,,468707940,way
+GoDaddy - Gilbert,33.3619309,-111.8392899,Arizona,,530982335,way
+Centersquare: Phoenix - (PHX1 - Mesa),33.4212542,-111.8590191,Arizona,Centersquare,543117031,way
+unnamed_dc_567575425,33.3470334,-111.6042679,Arizona,,567575425,way
+Iron Mountain AZP-2,33.4521575,-111.9772945,Arizona,Iron Mountain,685011021,way
+unnamed_dc_781370600,33.2676353,-111.8824933,Arizona,CyrusOne,781370600,way
+PHX-10,33.4079462,-112.3648297,Arizona,Microsoft,795384117,way
+EdgeCore,33.3441489,-111.619588,Arizona,,808979618,way
+StrongMind,33.3426083,-111.8409621,Arizona,,828228235,way
+Myndshift Technologies,33.4754208,-111.7191652,Arizona,,836947535,way
+unnamed_dc_843314844,32.0927065,-110.7874236,Arizona,DirecTV,843314844,way
+unnamed_dc_938592711,33.4393768,-112.377048,Arizona,,938592711,way
+Omnis Network,33.3944358,-111.9525168,Arizona,,940821791,way
+1GServers,33.3965617,-112.0001645,Arizona,,952157194,way
+unnamed_dc_977653854,33.2663809,-111.8818702,Arizona,CyrusOne,977653854,way
+unnamed_dc_977653858,33.268778,-111.8825216,Arizona,CyrusOne,977653858,way
+unnamed_dc_977653859,33.2697268,-111.8815437,Arizona,CyrusOne,977653859,way
+EdgeConneX PHX02 Data Center,33.3520091,-111.6475291,Arizona,EdgeConneX,1015704066,way
+unnamed_dc_1042260902,31.9726748,-110.3047517,Arizona,DirecTV,1042260902,way
+unnamed_dc_1052182309,33.4933506,-112.0705502,Arizona,,1052182309,way
+PHX-11,33.4090306,-112.3648272,Arizona,Microsoft,1091128478,way
+QTS,33.4608806,-111.9971562,Arizona,Quality Technology Services,1132632705,way
+unnamed_dc_1227682824,33.266349,-111.883301,Arizona,CyrusOne,1227682824,way
+unnamed_dc_1227684019,33.271917,-111.8816145,Arizona,CyrusOne,1227684019,way
+unnamed_dc_1227684020,33.2718119,-111.8832479,Arizona,CyrusOne,1227684020,way
+Vantage Data Centers,33.4463027,-112.3738867,Arizona,Vantage Data Centers,1283734104,way
+QTS,33.4646803,-111.9975601,Arizona,Quality Technology Services,1315636714,way
+Iron Mountain AZP-1,33.4547261,-111.9762182,Arizona,Iron Mountain,1357825755,way
+unnamed_dc_1372772726,33.3531912,-111.6780726,Arizona,,1372772726,way
+unnamed_dc_1456975947,33.3471979,-111.6324603,Arizona,,1456975947,way
+unnamed_dc_1456975948,33.3463331,-111.6289144,Arizona,,1456975948,way
+unnamed_dc_1456975949,33.347189,-111.6257923,Arizona,,1456975949,way
+PHX-12,33.4102344,-112.3648662,Arizona,Microsoft,1532070752,way
+PHX-13,33.4115438,-112.3648536,Arizona,Microsoft,1532070753,way
+PHX-14,33.4127955,-112.3648636,Arizona,Microsoft,1532070754,way
+Google Fiber,33.7715677,-84.3668585,Georgia,Google,4879481820,node
+Atlanta ATL13,33.7555186,-84.3914814,Georgia,Digital Realty,8109664813,node
+CoreSite AT1,33.7559857,-84.3911712,Georgia,CoreSite,12331366645,node
+Hewlett-Packard,34.0820578,-84.2672921,Georgia,,34770750,way
+Strategic Datasphere,34.0948126,-84.2357244,Georgia,,39083541,way
+Flexential Atlanta - Alpharetta Data Center,34.0869864,-84.2518183,Georgia,Flexential,39083797,way
+Secure Data Center,34.0937104,-84.2508748,Georgia,,39083830,way
+Cox Data Center,34.0362568,-84.3195121,Georgia,,269166415,way
+QTS Atlanta Data Center 1,33.7776897,-84.4211544,Georgia,Quality Technology Services,269847438,way
+Digital Realty Data Center,33.6570094,-84.4152195,Georgia,Digital Realty,278560778,way
+CoreSite AT2 - Marietta Data Center,33.9255145,-84.4816338,Georgia,CoreSite,284044002,way
+QTS Suwanee Data Center 1,34.0353956,-84.0611057,Georgia,Quality Technology Services,387378765,way
+QTS Suwanee Data Center 2,34.0370622,-84.0576958,Georgia,Quality Technology Services,387379196,way
+Flexential Atlanta - Norcross,33.9547396,-84.1985246,Georgia,Flexential,392324240,way
+CenturyLink,33.7651394,-84.3837393,Georgia,,536784688,way
+unnamed_dc_545704217,34.0707004,-84.6759032,Georgia,,545704217,way
+Mapletree Industrial,34.096708,-84.2374791,Georgia,,615593145,way
+Ascent - Atlanta Data Center,34.0570922,-84.273003,Georgia,Ascent,635022480,way
+Centersquare Atlanta ATL1,33.7442251,-84.5812077,Georgia,Centersquare,713410334,way
+Google,33.7497273,-84.58482,Georgia,Google,844352473,way
+Google,33.7520844,-84.5868134,Georgia,Google,844352474,way
+T5 Data Center,34.0757915,-84.264267,Georgia,,891031651,way
+DLI ONE,32.4982046,-84.8836237,Georgia,DLI ONE,958153769,way
+"Atlanta, GA",33.7420393,-84.5965614,Georgia,Data Canopy,975063975,way
+Digital Realty Atlanta ATL11,33.7465605,-84.5797407,Georgia,Digital Realty,975064000,way
+The Keep,33.7550251,-84.5872685,Georgia,Switch,975064004,way
+QTS Atlanta Data Center 2,33.7776013,-84.4194463,Georgia,Quality Technology Services,1007825570,way
+unnamed_dc_1012918195,34.060998,-84.2740266,Georgia,,1012918195,way
+Meta Stanton Springs Data Center,33.6004683,-83.7003581,Georgia,Meta,1054387470,way
+unnamed_dc_1054387471,33.6013861,-83.7054258,Georgia,Meta,1054387471,way
+unnamed_dc_1070895993,33.6000742,-83.6968472,Georgia,Meta,1070895993,way
+unnamed_dc_1070895994,33.5980717,-83.6950212,Georgia,Meta,1070895994,way
+Douglasville 1,33.7310574,-84.6160809,Georgia,Flexential,1097502168,way
+Aligned Data Centers,33.7259582,-84.6195747,Georgia,Aligned Data Centers,1097502169,way
+The Keep,33.7622598,-84.5934463,Georgia,Switch,1149499531,way
+The Keep,33.7603776,-84.5913033,Georgia,Switch,1149499532,way
+QTS Suwanee,34.0361545,-84.0593468,Georgia,Quality Technology Services,1207052719,way
+Douglasville 2,33.7307027,-84.6112398,Georgia,Flexential,1258702591,way
+UPS Data Center,34.1033836,-84.2149701,Georgia,,1282332209,way
+QTS,33.4484031,-84.5224887,Georgia,Quality Technology Services,1472128597,way
+QTS,33.4508851,-84.5236253,Georgia,Quality Technology Services,1472128598,way
+QTS,33.462293,-84.5236764,Georgia,Quality Technology Services,1510517635,way
+QTS,33.4639934,-84.5291838,Georgia,Quality Technology Services,1510517636,way
+Douglasville,33.7299455,-84.6233391,Georgia,Microsoft,1524793542,way
+Douglasville,33.7309353,-84.6229397,Georgia,Microsoft,1561981217,way
+Atlanta III,33.7632897,-84.6046613,Georgia,T5 Data Centers,1561981230,way
+Stack Infrastructure,33.7627446,-84.6024573,Georgia,Stack Infrastructure,1561981231,way
+Stack Infrastructure,33.7626731,-84.6006822,Georgia,Stack Infrastructure,1561981232,way
+Atlanta III,33.7605628,-84.6075819,Georgia,T5 Data Centers,1561981233,way
+Atlanta III,33.7605491,-84.6059431,Georgia,T5 Data Centers,1561981234,way
+Atlanta III,33.7588903,-84.6068256,Georgia,T5 Data Centers,1561981235,way
+The Keep,33.7571883,-84.5890964,Georgia,Switch,1561981236,way
+Microsoft,33.7182023,-84.5847806,Georgia,Microsoft,1562013259,way
+Microsoft,33.6392624,-84.5170239,Georgia,Microsoft,1562013293,way
+VIRTBIZ,32.7825463,-96.7828145,Texas,,6856057098,node
+Stream Data Centers Houston,30.1781365,-95.4860464,Texas,,9190480200,node
+Flexential Dallas - Downtown Dallas,32.8004101,-96.8193707,Texas,Flexential,12112238944,node
+Rad Web Hosting,32.7784469,-96.798496,Texas,,13465438761,node
+Precision Prints Lufkin Datacenter,31.2861659,-94.7215806,Texas,,14101687012,node
+Cyxtera Dallas-Fort Worth Data Center,32.8327103,-97.0410284,Texas,Cyxtera,25706343,way
+Equinix Infomart,32.8009535,-96.8195234,Texas,Equinix,28544618,way
+DataBank,32.7783107,-96.7984357,Texas,,30827429,way
+H5 Data Centers San Antonio,29.4293706,-98.4869057,Texas,H5 Data Centers,102129663,way
+unnamed_dc_254773884,33.096018,-96.6815422,Texas,,254773884,way
+Evoque Allen DA1,33.095083,-96.6837876,Texas,Centersquare,254773897,way
+CoreSpace Dallas,32.8175508,-96.873071,Texas,CoreSpace,290703004,way
+Lumen San Antonio 2,29.4382791,-98.5065217,Texas,Lumen Technologies,319857331,way
+Microsoft,29.47827,-98.6906853,Texas,Microsoft,364289073,way
+Microsoft San Antonio,29.479881,-98.6925337,Texas,Microsoft,364289074,way
+Microsoft,29.4810535,-98.6965704,Texas,Microsoft,364289077,way
+Cisco Allen,33.1359616,-96.6609921,Texas,,373913881,way
+Lumen Austin 3,30.261396,-97.7235975,Texas,Lumen Technologies,379195054,way
+Alpheus DataCenter,30.2610525,-97.722122,Texas,Alpheus,379199519,way
+Digital Realty Austin AUS11,30.212156,-97.6957555,Texas,,379204279,way
+LightEdge Austin II,30.2006765,-97.707046,Texas,,379204643,way
+unnamed_dc_379204766,30.2059267,-97.6979254,Texas,CyrusOne,379204766,way
+Data Foundry Austin 1 Data Center,30.215504,-97.696074,Texas,,379205427,way
+LightEdge Austin I,30.2142972,-97.7126675,Texas,,382785871,way
+Lumen Austin 1,30.1965,-97.7124025,Texas,,383888101,way
+Data Foundry - Texas 1,30.198907,-97.7137835,Texas,,383888914,way
+Element Critical,30.3428035,-97.6961735,Texas,,384396017,way
+unnamed_dc_455171103,30.2070079,-97.7010123,Texas,CyrusOne,455171103,way
+Lumen Dallas - 3180 Irving Blvd.,32.8069549,-96.8685888,Texas,Lumen Technologies,465032201,way
+Prime DFW01-01,32.8379581,-96.8784007,Texas,Prime,465032380,way
+Lumen Dallas 6,32.827998,-96.8843787,Texas,Lumen Technologies,465032484,way
+DataBank Dallas Empire Central Data Center,32.8217503,-96.873553,Texas,DataBank,465032631,way
+TierPoint Dallas Data Center,32.8079818,-96.8573889,Texas,TierPoint,465042594,way
+Live Oak Data Center,32.7837489,-96.7946364,Texas,,471658485,way
+Aligned  DFW-01,33.0093142,-96.6765617,Texas,Aligned,483286527,way
+unnamed_dc_483307714,33.1379231,-96.6574002,Texas,TierPoint,483307714,way
+unnamed_dc_487170215,30.0187,-95.8637474,Texas,DXC Technology,487170215,way
+Facebook Fort Worth Datacenter,32.9837829,-97.259335,Texas,Meta,500820007,way
+CITIGROUP TECHNOLOGY INC,33.0063815,-97.2452902,Texas,,507673418,way
+QTS Data Center,32.9889133,-97.2592738,Texas,Quality Technology Services,507673437,way
+Texas Cryptologic Center,29.4473786,-98.6407158,Texas,National Security Agency,509611414,way
+Lowe's Data Center,29.4730082,-98.6895043,Texas,Lowe's,509611423,way
+unnamed_dc_509611426,29.4703276,-98.6861914,Texas,CHRISTUS Health,509611426,way
+unnamed_dc_509611429,29.4702125,-98.6876674,Texas,Frost Bank,509611429,way
+CyrusOne San Antonio I,29.4666098,-98.6880869,Texas,CyrusOne,509611432,way
+Valero Wiserman,29.4742368,-98.6800789,Texas,Valero,509611436,way
+Stream San Antonio II,29.472003,-98.6717199,Texas,,509611437,way
+CyrusOne San Antonio II,29.4708878,-98.6730474,Texas,CyrusOne,509611438,way
+CyrusOne San Antonio III,29.4700573,-98.6721062,Texas,CyrusOne,509611439,way
+Microsoft Texas Research Park Campus,29.4155971,-98.8037856,Texas,Microsoft,521300038,way
+QTS Irving - Dallas Data Center Campus,32.8972479,-96.9826475,Texas,Quality Technology Services,526806006,way
+unnamed_dc_543316327,29.9951976,-95.5633335,Texas,DXC Technology,543316327,way
+unnamed_dc_543404966,29.9973349,-95.5640398,Texas,DXC Technology,543404966,way
+Flexential Dallas - Richardson,32.9948122,-96.7524974,Texas,Flexential,548184239,way
+Experian McKinney Data Center,33.1717958,-96.725505,Texas,,549418041,way
+Amazon Web Services,32.8504831,-97.0702974,Texas,Amazon Web Services,557140229,way
+Thin-nology,30.4211412,-97.591603,Texas,,570397131,way
+Data Foundry - Texas 2,30.1995736,-97.71307,Texas,,577628941,way
+unnamed_dc_587103676,29.8215755,-95.5708004,Texas,,587103676,way
+unnamed_dc_590213770,33.1378315,-96.6559451,Texas,ScaleMatrix,590213770,way
+unnamed_dc_590213771,33.138581,-96.6600205,Texas,CyrusOne,590213771,way
+Stream DFW IV,33.0001441,-96.6616465,Texas,Stream,597835788,way
+Rackspace Richardson DFW3,32.9647813,-96.7158554,Texas,Rackspace,597876719,way
+Digital Realty Dallas DFW17,32.9662804,-96.7132121,Texas,Digital Realty,597876721,way
+Digital Realty Dallas DFW29,32.9672759,-96.7105291,Texas,Digital Realty,597876722,way
+unnamed_dc_597876723,32.9662442,-96.7112265,Texas,,597876723,way
+Digital Realty Dallas DFW28,32.9672823,-96.7133223,Texas,Digital Realty,597876724,way
+Digital Realty Dallas DFW35,32.9650496,-96.7102551,Texas,Digital Realty,597876726,way
+Digital Realty Dallas DFW18,32.9652584,-96.7126115,Texas,Digital Realty,597876730,way
+Digital Realty Dallas DFW16,32.9660428,-96.715592,Texas,Digital Realty,597876798,way
+Microsoft TRP2,29.411987,-98.8039948,Texas,Microsoft,639176155,way
+Microsoft TRP1,29.4120123,-98.8027302,Texas,Microsoft,639176157,way
+Flexential Dallas - Plano,33.007033,-96.6663507,Texas,Flexential,650412346,way
+NTT,32.9810371,-96.6563775,Texas,NTT,671637259,way
+Rice Data Center,29.6581451,-95.4433121,Texas,,671838900,way
+Facebook Fort Worth Datacenter,32.9849203,-97.2550451,Texas,Meta,673145182,way
+DataBank Plano Data Center,33.0872472,-96.8156779,Texas,DataBank,714120969,way
+Skybox Houston One,29.802893,-95.7553386,Texas,Skybox,714776107,way
+unnamed_dc_744177375,30.1777082,-95.486593,Texas,,744177375,way
+unnamed_dc_747985149,33.9533733,-98.5247859,Texas,,747985149,way
+Facebook Fort Worth Datacenter,32.9883157,-97.255111,Texas,Meta,815057182,way
+Charles Schwab Data Center,33.0045123,-97.2461412,Texas,,815078625,way
+Google,32.4421391,-97.0624648,Texas,Google,844386860,way
+Google,32.4435639,-97.0633095,Texas,Google,844386861,way
+Compass Data Center,32.5387671,-96.8044586,Texas,,850965775,way
+Verizon Wireless Mew Building,32.9720407,-97.1567144,Texas,,989325195,way
+unnamed_dc_1010260674,29.4190024,-98.7874813,Texas,,1010260674,way
+Microsoft TRP3 (SAT46),29.412977,-98.8063744,Texas,Microsoft,1010260675,way
+Microsoft,29.4157967,-98.803316,Texas,Microsoft,1010260676,way
+Microsoft,29.4157956,-98.8045148,Texas,Microsoft,1010260677,way
+QTS San Antonio II,29.4491574,-98.6531261,Texas,Quality Technology Services,1081973944,way
+CyrusOne San Antonio IV,29.47076,-98.670723,Texas,,1121592786,way
+unnamed_dc_1177794153,32.8947608,-96.9819377,Texas,,1177794153,way
+Cortex supercomputer,30.2156192,-97.6189387,Texas,,1221574918,way
+Novartis,32.6512011,-97.3196729,Texas,,1227550179,way
+GVTC,29.686403,-98.4626475,Texas,GVTC,1296723872,way
+Stream Data Centers DFWA,32.9836243,-96.6542632,Texas,Stream Data Centers,1300765126,way
+MARA Data Center,32.3413407,-97.7316918,Texas,Marathon Digital Holdings,1301559332,way
+unnamed_dc_1310628998,29.5801522,-98.5413037,Texas,HEB,1310628998,way
+NTT,32.9809339,-96.6594653,Texas,NTT,1316023545,way
+NTT,32.980928,-96.6579435,Texas,NTT,1316023546,way
+CyrusOne SAT10 & SAT11,29.4182209,-98.7878367,Texas,CyrusOne,1344366214,way
+Amazon,29.4506766,-98.6387042,Texas,,1344369104,way
+unnamed_dc_1344369111,29.418466,-98.788796,Texas,,1344369111,way
+Vantage San Antonio I,29.4161404,-98.7892449,Texas,Vantage Data Centers,1344369112,way
+Google,32.5390042,-96.7932072,Texas,Google,1426525184,way
+Compass Data Center,32.5455044,-96.802207,Texas,,1426525212,way
+Compass Data Center,32.5441919,-96.802189,Texas,,1426525213,way
+Compass Data Center,32.5428991,-96.8021938,Texas,,1426525214,way
+Compass Data Center,32.5415885,-96.8022074,Texas,,1426525215,way
+Compass Data Center,32.5402764,-96.8022204,Texas,,1426525216,way
+Compass Data Center,32.5426759,-96.793719,Texas,,1426525217,way
+Compass Data Center,32.5439941,-96.7937194,Texas,,1426525218,way
+Compass Data Center,32.5452986,-96.7937562,Texas,,1426525219,way
+Compass Data Center,32.5439608,-96.7883983,Texas,,1426525220,way
+Compass Data Center,32.5452921,-96.7883821,Texas,,1426525221,way
+unnamed_dc_1432637060,29.44968,-98.7144036,Texas,,1432637060,way
+unnamed_dc_1432637061,29.4509306,-98.7139083,Texas,,1432637061,way
+unnamed_dc_1432637062,29.4522303,-98.7140639,Texas,,1432637062,way
+Alinged Data Center DFW-03,32.5498227,-97.0748553,Texas,"Aligned Data Centers, LLC",1443620406,way
+Google,32.4401038,-97.0609199,Texas,Google,1458626323,way
+Amazon AWS SAT - 12807 Donop,29.2930099,-98.3915987,Texas,Amazon Web Services,1460861317,way
+Prime DFW01-01,32.8378141,-96.8798458,Texas,Prime,1461896928,way
+unnamed_dc_1469988846,31.131912,-97.3721266,Texas,,1469988846,way
+unnamed_dc_1469988847,31.130797,-97.3690216,Texas,,1469988847,way
+unnamed_dc_1472056705,32.5041907,-99.7777236,Texas,,1472056705,way
+unnamed_dc_1472056706,32.5041755,-99.7788227,Texas,,1472056706,way
+unnamed_dc_1472056707,32.505118,-99.778185,Texas,,1472056707,way
+unnamed_dc_1472056708,32.5060537,-99.7777594,Texas,,1472056708,way
+unnamed_dc_1472056709,32.5060407,-99.7788638,Texas,,1472056709,way
+unnamed_dc_1472056710,32.505086,-99.7811392,Texas,,1472056710,way
+unnamed_dc_1472056711,32.5041519,-99.7815703,Texas,,1472056711,way
+unnamed_dc_1472056712,32.5060148,-99.7815952,Texas,,1472056712,way
+unnamed_dc_1472056713,32.5060257,-99.7804961,Texas,,1472056713,way
+unnamed_dc_1472056714,32.5041605,-99.7804657,Texas,,1472056714,way
+unnamed_dc_1484435248,33.1406542,-96.6595498,Texas,CyrusOne,1484435248,way
+Aligned Data Centers DFW-04,33.0060071,-96.6570922,Texas,Aligned Data Centers,1486780799,way
+Argo Data Center,33.777264,-100.8689012,Texas,,1490401523,way
+Switch: The Rock,30.4880189,-97.6725256,Texas,Switch,1493169641,way
+unnamed_dc_1498670679,31.0575233,-97.2982979,Texas,,1498670679,way
+Vantage Data Centers TX22,29.4790852,-98.6977011,Texas,Vantage Data Centers,1502710557,way
+Microsoft,29.4702203,-98.698835,Texas,Microsoft,1502711381,way
+MDC,31.7500067,-106.3099264,Texas,,1504463315,way
+unnamed_dc_1511639842,31.5327486,-103.8062715,Texas,,1511639842,way
+unnamed_dc_1511639843,31.5327486,-103.8052292,Texas,,1511639843,way
+unnamed_dc_1511639844,31.5327607,-103.8041922,Texas,,1511639844,way
+unnamed_dc_1511639845,31.5333451,-103.800415,Texas,,1511639845,way
+Digital Realty,32.9744297,-96.6501581,Texas,Digital Realty,1525436762,way
+Digital Realty,32.9764379,-96.6501233,Texas,Digital Realty,1530197817,way
+NTT,32.9795313,-96.6583794,Texas,NTT,1530199676,way
+Aligned  DFW-02,33.0090025,-96.6751351,Texas,Aligned,1530200859,way
+unnamed_dc_1530966366,32.4999884,-99.7762463,Texas,,1530966366,way
+unnamed_dc_1530966367,32.4999753,-99.7773508,Texas,,1530966367,way
+unnamed_dc_1530966368,32.4990526,-99.7766719,Texas,,1530966368,way
+unnamed_dc_1530966369,32.4981252,-99.7762105,Texas,,1530966369,way
+unnamed_dc_1530966370,32.4981101,-99.7773096,Texas,,1530966370,way
+unnamed_dc_1530966371,32.498095,-99.7793114,Texas,,1530966371,way
+unnamed_dc_1530966372,32.4980864,-99.7804159,Texas,,1530966372,way
+unnamed_dc_1530966373,32.4990206,-99.7799848,Texas,,1530966373,way
+unnamed_dc_1530966374,32.4999495,-99.7804408,Texas,,1530966374,way
+unnamed_dc_1530966375,32.4999604,-99.7793416,Texas,,1530966375,way
+unnamed_dc_1530966376,32.4999555,-99.7824649,Texas,,1530966376,way
+unnamed_dc_1530966377,32.4999424,-99.7835693,Texas,,1530966377,way
+unnamed_dc_1530966378,32.4990197,-99.7828905,Texas,,1530966378,way
+unnamed_dc_1530966379,32.4980923,-99.7824291,Texas,,1530966379,way
+unnamed_dc_1530966380,32.4980772,-99.7835282,Texas,,1530966380,way
+unnamed_dc_1530966381,32.4980495,-99.7855074,Texas,,1530966381,way
+unnamed_dc_1530966382,32.4980409,-99.786612,Texas,,1530966382,way
+unnamed_dc_1530966383,32.498975,-99.7861809,Texas,,1530966383,way
+unnamed_dc_1530966384,32.499904,-99.7866369,Texas,,1530966384,way
+unnamed_dc_1530966385,32.4999148,-99.7855378,Texas,,1530966385,way
+unnamed_dc_1530966386,32.4984632,-99.7911682,Texas,,1530966386,way
+unnamed_dc_1530966387,32.4984502,-99.7922727,Texas,,1530966387,way
+unnamed_dc_1530966388,32.4975274,-99.7915938,Texas,,1530966388,way
+unnamed_dc_1530966389,32.4966,-99.7911324,Texas,,1530966389,way
+unnamed_dc_1530966390,32.4965849,-99.7922315,Texas,,1530966390,way
+unnamed_dc_1530966391,32.4965635,-99.7944574,Texas,,1530966391,way
+unnamed_dc_1530966392,32.4965549,-99.795562,Texas,,1530966392,way
+unnamed_dc_1530966393,32.4974891,-99.7951309,Texas,,1530966393,way
+unnamed_dc_1530966394,32.498418,-99.7955869,Texas,,1530966394,way
+unnamed_dc_1530966395,32.4984289,-99.7944878,Texas,,1530966395,way
+Vantage TX11,29.416857,-98.7901874,Texas,Vantage Data Centers,1533148730,way
+unnamed_dc_1533148752,29.4157967,-98.7864239,Texas,,1533148752,way
+Vantage TX12,29.4155984,-98.7888658,Texas,Vantage Data Centers,1533349843,way
+Vantage TX12,29.4151667,-98.7897506,Texas,Vantage Data Centers,1533349844,way
+Microsoft,29.4189602,-98.802904,Texas,Microsoft,1533350872,way
+Microsoft SAT 80,29.4291907,-98.8766548,Texas,Microsoft,1533392812,way
+Microsoft SAT 81,29.427998,-98.8766526,Texas,Microsoft,1533392813,way
+Microsoft SAT 82,29.4266541,-98.8766379,Texas,Microsoft,1533392814,way
+Data Foundry,29.9451277,-95.4241979,Texas,,1535715798,way
+Vantage Data Centers TX21,29.4773739,-98.6975253,Texas,Vantage Data Centers,1535752110,way
+unnamed_dc_1536086683,31.5134322,-103.4491235,Texas,,1536086683,way
+unnamed_dc_1536086684,31.5138793,-103.4486671,Texas,,1536086684,way
+unnamed_dc_1537390734,29.4452464,-98.6440866,Texas,,1537390734,way
+unnamed_dc_1537390735,29.4450409,-98.644251,Texas,,1537390735,way
+unnamed_dc_1537390736,29.4448506,-98.644404,Texas,,1537390736,way
+unnamed_dc_1537390737,29.4446618,-98.6445562,Texas,,1537390737,way
+unnamed_dc_1537390738,29.4444746,-98.6447102,Texas,,1537390738,way
+unnamed_dc_1537390739,29.4442858,-98.6448606,Texas,,1537390739,way
+unnamed_dc_1537390740,29.4449076,-98.6435458,Texas,,1537390740,way
+unnamed_dc_1537390741,29.4447004,-98.6437103,Texas,,1537390741,way
+unnamed_dc_1537390742,29.4445131,-98.6438625,Texas,,1537390742,way
+unnamed_dc_1537390743,29.4443274,-98.6440147,Texas,,1537390743,way
+unnamed_dc_1537390744,29.4441379,-98.6441678,Texas,,1537390744,way
+unnamed_dc_1537390745,29.4439499,-98.6443182,Texas,,1537390745,way
+unnamed_dc_1537390746,29.4450699,-98.643813,Texas,,1537390746,way
+unnamed_dc_1537390747,29.4448641,-98.643979,Texas,,1537390747,way
+unnamed_dc_1537390748,29.4446797,-98.6441308,Texas,,1537390748,way
+unnamed_dc_1537390749,29.4444885,-98.6442824,Texas,,1537390749,way
+unnamed_dc_1537390750,29.444302,-98.6444342,Texas,,1537390750,way
+unnamed_dc_1537390751,29.4441148,-98.6445852,Texas,,1537390751,way
+unnamed_dc_1547829413,31.1034739,-103.2385493,Texas,,1547829413,way
+unnamed_dc_1547829414,31.1036646,-103.2383757,Texas,,1547829414,way
+unnamed_dc_1556702082,32.8991167,-97.3889496,Texas,CyrusOne,1556702082,way
+IONIC Digital Cedarvale,31.5134473,-103.4485396,Texas,IONIC Digital,21073054,relation
+SDSU Computer Room,32.7750252,-117.070888,California,,2607827436,node
+Open Computing Facility,37.8698521,-122.2598231,California,,5146323411,node
+STACK Infrastructure,37.4027449,-121.891051,California,"Stack Infrastructure, Incorporated",8238715059,node
+STACK Infrastructure,37.4026341,-121.891057,California,"Stack Infrastructure, Incorporated",8238715061,node
+Digital West Data Center,35.2553162,-120.6415128,California,,8477460442,node
+San Jose Colocation Center,37.3341181,-121.891646,California,CoreSite,8897151054,node
+unnamed_dc_10780794741,37.7796531,-122.3940005,California,Ntirety,10780794741,node
+e360,37.9710809,-122.0437382,California,,10880725408,node
+IT,33.9102899,-117.5030207,California,,11924506303,node
+Prime Santa Clara,37.3666621,-121.9628653,California,Prime,12437277166,node
+"Forescout Technologies, Inc.",37.3228675,-121.9474176,California,,12550746951,node
+CoreSite - LA2,34.0584789,-118.2359144,California,CoreSite,13042311881,node
+Petadata,37.5529209,-121.9808321,California,,14081154610,node
+USPO Terminal Annex,34.0581039,-118.2353939,California,United States Postal Service,30666790,way
+LightEdge SAN1,32.8278941,-117.1299275,California,,31800424,way
+EdgeConneX San Diego,32.8423554,-117.1694226,California,EdgeConneX,31803515,way
+RagingWire CA2,38.6504002,-121.4919461,California,NTT,32560290,way
+RagingWire CA1,38.6504319,-121.4891868,California,NTT,32560292,way
+Equinix SV1,37.2415975,-121.7833277,California,Equinix,35491576,way
+Lumen Sunnyvale 1,37.3734695,-121.9878002,California,Lumen Technologies,37877544,way
+OpenColo,37.3788292,-121.9559257,California,,37947313,way
+Equinix Santa Clara SV2,37.3784704,-121.9549839,California,Equinix,37947314,way
+Santa Clara Data Center (SJC3),37.3780374,-121.9541277,California,Evocative,37947315,way
+Digital Realty Silicon Valley SJC34,37.3724077,-121.973647,California,Digital Realty,38305431,way
+Csquare SFO1,37.3714713,-121.9696826,California,Csquare,38305568,way
+unnamed_dc_38305611,37.3733075,-121.9727778,California,Vantage,38305611,way
+Cologix Santa Clara SV1 Data Center,37.3654018,-121.9616726,California,Cologix,40608200,way
+Csquare SFO2,37.397572,-121.980963,California,Csquare,54119665,way
+Csquare SFO2,37.3986381,-121.9811563,California,Csquare,54119667,way
+QTS Santa Clara 1,37.3939862,-121.9783207,California,Quality Technology Services,54121151,way
+CoreSite SV3,37.3751575,-121.9717141,California,CoreSite,54173383,way
+CoreSite SV6,37.3763019,-121.9720837,California,CoreSite,54173753,way
+CoreSite SV8,37.3773827,-121.97184,California,CoreSite,54173755,way
+CoreSite SV5,37.3751959,-121.9706889,California,CoreSite,54383196,way
+CoreSite SV9,37.3755551,-121.9696049,California,CoreSite,54383197,way
+QTS Santa Clara 2,37.3927307,-121.9784277,California,Quality Technology Services,58708529,way
+Equinix SV4,37.4145109,-122.0145563,California,Equinix,99813512,way
+Equinix SV8,37.4458951,-122.160786,California,Equinix,132746406,way
+Equinix SV5,37.2420719,-121.7817852,California,Equinix,161126131,way
+RagingWire CA3,38.6442393,-121.4987627,California,NTT,190868312,way
+360 Spear Street Data Center,37.7889916,-122.3901367,California,Digital Realty,192307107,way
+QTS Sacramento,38.6463763,-121.4862686,California,Quality Technology Services,194049551,way
+Equinix SV15,37.3754952,-121.9884063,California,Equinix,205823968,way
+Equinix SV16,37.3761243,-121.9886718,California,Equinix,205823970,way
+Equinix SV17,37.3765309,-121.9885825,California,Equinix,205823971,way
+Equinix SV14,37.3749843,-121.9884742,California,Equinix,205823980,way
+CoreSite SV4,37.3762614,-121.9706851,California,CoreSite,205846843,way
+Lumen Santa Clara,37.3770332,-121.952059,California,Lumen Technologies,209073635,way
+Prime Santa Clara,37.3750172,-121.9532497,California,Prime,209073636,way
+Digital Realty Silicon Valley SJC10,37.375822,-121.9533359,California,Digital Realty,209073641,way
+Colovore,37.3767228,-121.9531439,California,,209073645,way
+Digital Realty Silicon Valley SJC30,37.3782874,-121.9581107,California,Digital Realty,209073647,way
+Digital Realty Silicon Valley SJC15,37.3749966,-121.9540769,California,Digital Realty,209073649,way
+Digital Realty Silicon Valley SJC16,37.3749324,-121.9559987,California,Digital Realty,209073653,way
+Digital Realty Silicon Valley SJC29,37.3750223,-121.9581,California,Digital Realty,209073657,way
+Csquare SFO4,37.3757986,-121.9551844,California,Csquare,209073658,way
+Prime SANTA CLARA DATA CENTER,37.3750292,-121.9548775,California,Prime,209073659,way
+Digital Realty Silicon Valley SJC11,37.3763668,-121.9485649,California,Digital Realty,209076412,way
+Lumen,37.3775848,-121.9506821,California,Lumen Technologies,209077298,way
+Silicon Valley SJC31,37.3722213,-121.9482625,California,Digital Realty,209087373,way
+unnamed_dc_209105766,37.3797897,-121.9499034,California,,209105766,way
+Evocative Santa Clara SJC11,37.3895364,-121.9619398,California,,209117217,way
+Dell 350 Holger Way,37.418381,-121.9431173,California,,224139416,way
+SV Colo,37.3642804,-121.9587878,California,SV Colo,224174031,way
+Microsoft,37.3621026,-121.9464586,California,Microsoft,224998784,way
+Csquare SFO3,37.3720542,-121.9860407,California,Csquare,271893323,way
+Digital Realty San Francisco SFO10,37.7236272,-122.3979543,California,Digital Realty,289620443,way
+CoreSite SV2,37.4056857,-121.9162604,California,"CoreSite Real Estate 1656 McCarthy, L.P.",299388896,way
+Digital Realty Silicon Valley SC1,37.3616469,-121.9439784,California,Digital Realty,358455179,way
+QES Computers,37.6994753,-121.9037995,California,,358946546,way
+Digital Realty,37.7990205,-122.2825386,California,Digital Realty,377378595,way
+Hurricane Electric Fremont 1,37.4898848,-121.9310239,California,Hurricane Electric,383728972,way
+XO Fremont,37.4753251,-121.9221068,California,XO,384310259,way
+Hurricane Electric Fremont 2,37.471834,-121.9202907,California,Hurricane Electric,384310269,way
+Equinix SV6,37.3996265,-122.0145584,California,Equinix,390287635,way
+Equinix,33.8507525,-118.3040815,California,Equinix,409027020,way
+unnamed_dc_424945736,33.9177276,-118.3862234,California,Centurylink,424945736,way
+Serverfarm - LAX1,33.9217415,-118.3864588,California,Serverfarm LLC.,424945845,way
+DRT LAX12,33.9156593,-118.3846186,California,Digital Realty,424945852,way
+DRT LAX10,34.0473304,-118.25751,California,,428021796,way
+One Wilshire,34.0478876,-118.2555409,California,,428021816,way
+Xo Communications Colocation Data Center,33.7035942,-117.8501424,California,,440666998,way
+unnamed_dc_451413811,37.3336326,-121.8879639,California,,451413811,way
+Equinix San Jose SV3,37.388274,-121.8884463,California,Equinix,460076753,way
+365 Main Street Data Center,37.788731,-122.390469,California,Digital Realty,460085343,way
+unnamed_dc_460159925,37.4039641,-121.8892308,California,NTT Limited,460159925,way
+Csquare SFO1,37.37045,-121.9698252,California,Csquare,460159928,way
+unnamed_dc_460159955,37.3717787,-121.9725052,California,Vantage,460159955,way
+unnamed_dc_460212563,34.1998691,-118.3437888,California,Centurylink,460212563,way
+Kaiser Data Center,38.254065,-122.2730918,California,,464371693,way
+AT&T,34.5799784,-118.1140073,California,,472954201,way
+TPx Colocation Datacenter,33.7075065,-117.8441042,California,TPx Communications,492699069,way
+unnamed_dc_495115494,34.0479149,-118.2555689,California,,495115494,way
+AT&T Center,32.7476543,-117.1589538,California,American Telephone & Telegraph,531709017,way
+Stack Infrastructure,37.4025598,-121.893391,California,Stack Infrastructure,553223628,way
+Stack Infrastructure,37.4022094,-121.8923868,California,Stack Infrastructure,553223629,way
+Equinix SV10,37.2412288,-121.7847536,California,Equinix,600806974,way
+unnamed_dc_765230023,34.0594667,-117.2021665,California,,765230023,way
+PG&E Datacenter,38.2462382,-122.0671844,California,,780063735,way
+NTT Silicon Valley SV1 Data Center,37.3690532,-121.9553378,California,NTT,888253616,way
+unnamed_dc_930540164,33.1536001,-117.2388464,California,,930540164,way
+Edgeconnex Data Center,38.5922987,-121.27744,California,EdgeConneX,933393863,way
+Northwest Data Center and Communications Hub,37.4334128,-122.1807076,California,,978632013,way
+Amazon,37.3899287,-121.9659908,California,Amazon Web Services,1065780801,way
+unnamed_dc_1075445245,37.3611541,-121.9423402,California,,1075445245,way
+CoreSite SV7,37.3760788,-121.9730567,California,CoreSite,1160688107,way
+Equinix SV11,37.242615,-121.7840216,California,Equinix,1227604493,way
+Modesto Junior College West Data Center,37.6651447,-121.0400334,California,Yosemite Community College District,1296163129,way
+unnamed_dc_1313995085,37.3706431,-121.9744825,California,,1313995085,way
+Vantage Santa Clara CA2,37.3640012,-121.94689,California,Vantage Data Centers,1314010354,way
+Digital Realty Silicon Valley SJC37,37.3709193,-121.9472166,California,Digital Realty,1314012931,way
+Csquare SFO4,37.3757651,-121.9562701,California,Csquare,1344376231,way
+DataBank Santa Clara SFO1,37.4073026,-121.9659803,California,DataBank,1351049826,way
+EdgeCore Silicon Valley,37.3837192,-121.9654044,California,,1460847458,way
+STACK SVY02,37.3619343,-121.9537306,California,Stack Infrastructure,1460855151,way
+Netrality,41.8728811,-87.63344,Illinois,Netrality,10537283366,node
+Digital Realty ORD10,41.8533507,-87.6183067,Illinois,Digital Realty,10910879064,node
+Centersquare Chicago Data Center - ORD1,41.8533827,-87.6186071,Illinois,Centersquare,10910879065,node
+West Monroe,41.8805271,-87.6359383,Illinois,,10945121336,node
+CoreSite Chicago Data Center (CH1),41.8759405,-87.6314655,Illinois,CoreSite,11098469355,node
+Equinix Chicago Data Center - CH1,41.8535578,-87.6180475,Illinois,Equinix,12695496267,node
+Lincoln Rackhouse,41.7721034,-88.2170821,Illinois,,124088810,way
+Digital Realty CH1,41.9942501,-87.9619545,Illinois,Digital Realty,128499684,way
+NCSA Petascale Computing Facility,40.0952591,-88.2420314,Illinois,,138260136,way
+Digital Realty ORD11,41.8743036,-87.6299404,Illinois,Digital Realty,149379943,way
+Serverfarm CH1,41.8709439,-87.6401413,Illinois,Serverfarm,152449872,way
+Lakeside Technology Center,41.8536916,-87.6182716,Illinois,,156520409,way
+EdgeConneX CHI01,42.0007751,-87.9507686,Illinois,EdgeConneX,174242795,way
+unnamed_dc_199252950,41.796856,-88.2444947,Illinois,CyrusOne,199252950,way
+QTS Chicago,41.8421621,-87.6689315,Illinois,Quality Technology Services,209786637,way
+Iron Mountain Data & Record Storage,41.8487049,-87.6454577,Illinois,Iron Mountain,210222970,way
+Equinix Chicago Data CH7,41.8125627,-87.9728504,Illinois,Equinix,243242167,way
+VISA,42.2167763,-87.9529303,Illinois,VISA,317466755,way
+unnamed_dc_343593591,41.9053402,-88.2195062,Illinois,,343593591,way
+EdgeConneX CHI02,42.0014952,-87.9525624,Illinois,EdgeConneX,377032058,way
+Equinix Chicago CH3,42.001221,-87.9551997,Illinois,Equinix,377032061,way
+Element Critical CH2,41.9742269,-87.9671756,Illinois,Element Critical,377212693,way
+Centersquare Elk Grove Village Data Center Campus ORD2,41.9920884,-87.9580136,Illinois,Centersquare,377345296,way
+Skybox Chicago I,41.9936612,-87.973521,Illinois,Skybox,383545769,way
+Element Critical CH1,41.9757324,-87.9646913,Illinois,Element Critical,384690290,way
+Digital Realty Chicago ORD12,41.9283557,-87.8592545,Illinois,Digital Realty,409296605,way
+Centersquare Lisle ORD4 Data Center,41.8023406,-88.0948856,Illinois,Centersquare,530024353,way
+Microsoft - Azure Datacenter,41.9229565,-87.9182633,Illinois,Microsoft,578443547,way
+Digital Realty CH3,41.9943531,-87.9649422,Illinois,Digital Realty,713428715,way
+Digital Realty CH2,41.9945332,-87.9577513,Illinois,Digital Realty,713433204,way
+CoreSite Chicago Data Center (CH2),41.8627972,-87.6413012,Illinois,CoreSite,841813139,way
+Stream Chicago II,41.9991249,-87.9577434,Illinois,Stream,863162820,way
+STACK Chicago CHI01,42.0068512,-87.9651853,Illinois,Stack Infrastructure,863162822,way
+Stream Chicago I,42.0026304,-87.9511119,Illinois,Stream,863162825,way
+unnamed_dc_1133944585,38.8105602,-89.9487033,Illinois,,1133944585,way
+Datacenter (386),41.7071342,-87.9759559,Illinois,UChicago Argonne LLC,1154349280,way
+NTT Chicago CH1,41.9879619,-88.0072217,Illinois,NTT,1154636644,way
+Aligned Data Center - Chicago ORD-01,41.9140034,-87.9175163,Illinois,Aligned,1217649348,way
+Aligned Data Center - Chicago ORD-02,41.9129628,-87.9175895,Illinois,Aligned,1217649350,way
+Microsoft CHI11,42.0231434,-87.9721861,Illinois,Microsoft,1219083552,way
+T5 Chicago II,42.0230424,-87.9755567,Illinois,T5 Data Centers,1219083554,way
+NTT Chicago CH2,41.9890149,-88.0072131,Illinois,NTT,1271571726,way
+unnamed_dc_1312792611,41.8885461,-88.7218341,Illinois,Meta,1312792611,way
+unnamed_dc_1312792612,41.8892995,-88.7310298,Illinois,Meta,1312792612,way
+unnamed_dc_1312792613,41.890305,-88.7266276,Illinois,Meta,1312792613,way
+unnamed_dc_1316005112,42.0230765,-87.961467,Illinois,,1316005112,way
+unnamed_dc_1426146790,41.7953769,-88.2469648,Illinois,CyrusOne,1426146790,way
+NTT Chicago CH3,41.9869408,-88.0079846,Illinois,NTT,1446350367,way
+NTT Chicago CH4,41.9891013,-88.0047584,Illinois,NTT,1446350370,way
+CyrusOne CHI3,41.8028612,-88.2467523,Illinois,CyrusOne,1481581947,way
+Edged Chicago ORD01,41.8069309,-88.2410968,Illinois,Edged,1481581948,way
+unnamed_dc_1556760955,41.7966043,-88.2429853,Illinois,CyrusOne,1556760955,way
+unnamed_dc_1557957010,41.9773625,-87.9630149,Illinois,,1557957010,way
+unnamed_dc_1558344919,42.0344483,-87.9831631,Illinois,,1558344919,way
+"NetSource Communications, Inc",41.8109573,-88.1952275,Illinois,NetSource,1562274525,way
