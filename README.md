@@ -274,3 +274,25 @@ The following flowchart presents the overall workflow of AquaSite, from data col
 The framework is designed as a modular pipeline, allowing individual components such as water stress, direct water demand, indirect water use, uncertainty, and cumulative basin impact to be developed and evaluated independently.
 <img width="1536" height="1024" alt="AquaSite Workflow" src="https://github.com/user-attachments/assets/d051573e-e12b-4045-a07c-9a37eb8b7319" />
 
+## Synopsis
+
+### Introduction
+
+AI runs on data centers, and data centers use a lot of water. They use it directly to cool the servers, and indirectly because the electricity that powers them often comes from plants that also use water. Many new data centers are built in places that are already short of water, often without checking when in the year the shortage is worst.
+
+*AquaSite* is an open-source framework that helps answer one question: *where is it smartest to build or run an AI data center so that it harms local water the least, while keeping cost and carbon in check?*
+
+Most earlier studies use one yearly average and one river basin. AquaSite goes further. It looks month by month, counts water used both at the data center and at the power plant (two basins), models how hot and humid weather affects cooling, and reports how sure or unsure the answer is.
+
+## Use Cases
+
+| Who | How they would use AquaSite |
+|---|---|
+| *Cloud and AI companies* | Pick a new data center site, or decide where to run heavy AI training jobs, with the lowest water risk. Avoid sites that become stressed just when cooling demand peaks. |
+| *Local and state governments* | Check whether a proposed data center would put pressure on local water, and set fair permit or reporting rules. |
+| *Water utilities and basin managers* | Plan for the extra summer demand a data center may bring, and see which basins are most exposed. |
+| *Investors and ESG analysts* | Judge the water risk of data-center projects before funding them, using open and checkable numbers. |
+| *Energy planners* | See how the electricity mix changes the hidden water footprint of computing. |
+| *Researchers and students* | Reuse the open pipeline and data to study sustainable computing, and reproduce or extend the results. |
+| *Journalists and the public* | Understand, with maps, where AI growth and water scarcity collide. |
+
